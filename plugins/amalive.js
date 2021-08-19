@@ -9,11 +9,11 @@ if (Config.WORKTYPE == 'private') {
 Asena.addCommand({pattern: 'aliv', fromMe: true,dontAddCommandList: true}, (async (message, match) => {
 
     var r_text = new Array ();    
-r_text[0] = "The greatest glory in living lies not in never falling, but in rising every time we fall.\n           -Nelson Mandela";
-r_text[1] = "The way to get started is to quit talking and begin doing.\n           -Walt Disney";
-r_text[2] = "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.\n        -Steve Jobs";
-r_text[3] = "If life were predictable it would cease to be life, and be without flavor.\n        -Eleanor Roosevelt";
-r_text[4] = "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.\n        -Oprah Winfrey";
+r_text[0] = "eda njn ivida ondeda mwone.\n           -tom";
+r_text[1] = "ninakku vere pani illleda.\n           -tom";
+r_text[2] = "oh shalyam oranganum sammaykkilla.\n        -tom";
+r_text[3] = "nee theernneda naye.\n        -tom";
+r_text[4] = "poda poyi palu kuch.\n        -tom";
 r_text[5] = "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.\n        -James Cameron";
 r_text[6] = "Spread love everywhere you go. Let no one ever come to you without leaving happier.\n        -Mother Teresa";
 r_text[7] = "When you reach the end of your rope, tie a knot in it and hang on.\n        -Franklin D. Roosevelt";
